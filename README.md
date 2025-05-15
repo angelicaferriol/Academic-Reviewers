@@ -1,14 +1,4 @@
-# Academic Study Materials Repository
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Topics Covered](#topics-covered)
-3. [Study Materials](#study-materials)
-4. [Contributing](#contributing)
-5. [License](#license)
-
-## Overview
-
+# Study Materials
 This repository is designed to document and provide materials for self-study and academic purposes. It includes resources, summaries, and research from various fields, particularly **computer science** and **marine science**, that I have studied or am in the process of studying.
 
 It is intended for academic review, self-study, and reference purposes. All materials here are curated to support ongoing learning and exploration in the fields of artificial intelligence, marine science, and my undergraduate studies.
